@@ -1,0 +1,22 @@
+header > nav > a > img{
+  height: 110px;
+  width: 280px;
+}
+.main-form {
+    width: 450px;
+    margin: auto;
+}
+.form-container{
+   background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+}
+.form-container-one{
+      background: linear-gradient(to right, #6699ff 0%, #ccffff 100%);
+}
+.table {
+    margin: 0 auto;
+    width: 85%;
+}
+.banner{
+  width: 100%;
+  height: 250px;
+}
